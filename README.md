@@ -1,0 +1,16 @@
+## 📌 Table of Contents
+
+- [Introduction](#introduction)
+- [🔁 SQL Joins](#-sql-joins)
+  - [Inner Join](#inner-join)
+  - [Left Join](#left-join)
+  - [Right Join](#right-join)
+  - [Full Outer Join](#full-outer-join)
+- [🔎 SQL Subqueries](#-sql-subqueries)
+  - [Single-row Subquery](#single-row-subquery)
+  - [Multiple-row Subquery](#multiple-row-subquery)
+  - [Correlated Subquery](#correlated-subquery)
+- [📥 WITH Clause (CTE)](#-with-clause-cte)
+- [📁 Folder Structure](#-folder-structure)
+- [✅ How to Use](#-how-to-use)
+- [📚 References](#-references)
